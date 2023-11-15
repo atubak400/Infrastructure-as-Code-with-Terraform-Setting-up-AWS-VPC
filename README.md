@@ -1,4 +1,4 @@
-# Creating VPC and Subnets with Terrafprm
+# Creating VPC and Subnets with Terraform
 
 1. Configure the AWS provider to create the VPC and subnet in your main.tf file
 
