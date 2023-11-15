@@ -67,7 +67,7 @@ It takes your planned changes and actually applies them to your cloud infrastruc
 ![terraform apply](./img/3.png)
 
 
-9. Check you aws to confirm that VPC and Subnet is created
+9. Check your aws to confirm that VPC and Subnet is created
 
 ![ec2 confirmation on dashboard](./img/4.png)
 ![ec2 confirmation on dashboard](./img/5.png)
